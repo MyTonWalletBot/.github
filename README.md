@@ -1,3 +1,23 @@
+# MyTonWallet Giveaways
+This project consists of 3 parts - backend (API), frontend (dapp) and Telegram bot. Startup instructions are provided separately in each repository.
+> [!NOTE]
+> To run the frontend, simply bring up a web server that distributes files from the repository, no additional build is required.
+
+The task assigment of the contest (the specification) was fully implemented.
+
+## Backend
+Link - [backend](https://github.com/MyTonWalletBot/backend)
+
+
+## Frontend
+Link - [dapp](https://github.com/MyTonWalletBot/dapp)
+
+## Telegram bot
+Link - [bot](https://github.com/MyTonWalletBot/bot)
+
+## Contacts
+If you have access-related errors or any questions, you can contact me in Telegram: https://t.me/difhel
+
 <details>
   <summary>My to-do list for this contest (not important to check)</summary>
   
