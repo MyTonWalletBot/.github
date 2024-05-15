@@ -3,6 +3,9 @@ This project consists of 3 parts - backend (API), frontend (dapp) and Telegram b
 > [!NOTE]
 > To run the frontend, simply bring up a web server that distributes files from the repository, no additional build is required.
 
+> [!WARNING]
+> Bot works *on testnet* now. Wallet address: `EQDWdmk-I5CYgHMd0BFhniOKrhzqXfendEhCaO2Q6vHF56ej`
+
 The task assigment of the contest (the specification) was fully implemented.
 
 ## Backend
